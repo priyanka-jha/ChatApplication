@@ -2,9 +2,10 @@
 An iOS chat application using Firebase.
 
 **Third party libraries used:**
-      *Firebase
-      *JSQMessagesViewController
+  * Firebase
+  * JSQMessagesViewController
    
+
 
 **Here is the screenshot:**
 
